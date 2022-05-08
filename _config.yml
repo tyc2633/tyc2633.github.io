@@ -102,6 +102,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type:   git
-respository:  git@github.com:tyc2633/tyc2633.github.io.git
-branch:   main
+type: git
+respository: https://github.com/tyc2633/tyc2633.github.io.git
+branch: main
